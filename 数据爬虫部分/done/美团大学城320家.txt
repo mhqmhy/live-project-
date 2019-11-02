@@ -1,0 +1,6021 @@
+[
+    {
+        "href": "https://www.meituan.com/meishi/93578472/",
+        "name": "韩缘自助烤肉海鲜火锅",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 93578472,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 1
+            }
+        },
+        "level": [
+            "很好",
+            "5分",
+            "202人评论"
+        ],
+        "address": "福州大学城上街镇70国道闽江学院东门正对面二楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1889238469/",
+        "name": "樱喜屋日式料理",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1889238469,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 2
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "8人评论"
+        ],
+        "address": "福州大学城学府北路10-21"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/91091223/",
+        "name": "肉蟹煲（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 91091223,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 3
+            }
+        },
+        "level": [
+            "很好",
+            "5分",
+            "666人评论"
+        ],
+        "address": "福州大学城学府北路福大生活一区学生街12号店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/123944214/",
+        "name": "85度C（福州大学城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 123944214,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 4
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "博仕后购物广场国宾大道路268号3期负1层B-0060、B-0061-1"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/180661900/",
+        "name": "小条食堂（福大学生街店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 180661900,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 5
+            }
+        },
+        "level": [
+            "好",
+            "4.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大学生街B2区10-11店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/835264/",
+        "name": "凯旋烘焙（大学城旗舰总店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 835264,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 6
+            }
+        },
+        "level": [
+            "很好",
+            "4.8分",
+            "218人评论"
+        ],
+        "address": "福州师范大学（旗山校区）文化街119号（近师大）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/193563362/",
+        "name": "名古屋寿司",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 193563362,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 7
+            }
+        },
+        "level": [
+            "很好",
+            "4.8分",
+            "19人评论"
+        ],
+        "address": "福州大学城上街镇学府北路10-86（岐安村福大学生街B1区02店面）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/91595911/",
+        "name": "金年任（闽侯大学城福建师大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 91595911,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 8
+            }
+        },
+        "level": [
+            "很好",
+            "5分",
+            "449人评论"
+        ],
+        "address": "新西客站大学城科技路47号临时市场摊位（上街师大西门美食街内，近菜市场）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/161826077/",
+        "name": "天天烤鱼（大学城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 161826077,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 9
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "闽侯县上街镇广贤路旗山校区师大美食街168号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/4974045/",
+        "name": "德庄火锅（福州大学城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 4974045,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 10
+            }
+        },
+        "level": [
+            "不错",
+            "3.8分",
+            "1148人评论"
+        ],
+        "address": "博仕后购物广场大学城上街英泰第1城（博仕后购物广场对面）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/5572234/",
+        "name": "韩一品",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 5572234,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 11
+            }
+        },
+        "level": [
+            "很好",
+            "5分",
+            "0人评论"
+        ],
+        "address": "福州大学城70国道闽江学院东门（近小黑酒吧）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/174348995/",
+        "name": "客家别院湖景餐厅",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 174348995,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 12
+            }
+        },
+        "level": [
+            "好",
+            "4.5分",
+            "39人评论"
+        ],
+        "address": "福州大学城闽江学院南门（地铁2号线金屿站转7号线公交接驳车至公交大学城西停车场站下车即可）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/162183701/",
+        "name": "相约啵啵鱼（大学城旗舰店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 162183701,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 13
+            }
+        },
+        "level": [
+            "好",
+            "4.3分",
+            "25人评论"
+        ],
+        "address": "新西客站上街镇大学城科技路41号临时市场摊位"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/193315323/",
+        "name": "大叔韩国料理 精品烤肉",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 193315323,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 14
+            }
+        },
+        "level": [
+            "好",
+            "4.2分",
+            "16人评论"
+        ],
+        "address": "福州大学城闽侯县学府北路10-128"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/4234714/",
+        "name": "重庆鸡公煲万州烤鱼（819分店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 4234714,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 15
+            }
+        },
+        "level": [
+            "一般",
+            "3.4分",
+            "152人评论"
+        ],
+        "address": "福州大学城福州大学生活一区学生街"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/193211505/",
+        "name": "望京小腰（大学城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 193211505,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 16
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "博仕后购物广场国宾大道238-21号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1911543656/",
+        "name": "老成都火锅",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1911543656,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 17
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "4人评论"
+        ],
+        "address": "福州大学城上街镇榕桥村学生街二层第1-2号店面（联榕路15-201号）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/41887215/",
+        "name": "家谷粒（石锅拌饭）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 41887215,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 18
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽江学院东门"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/166010821/",
+        "name": "片皮鸭",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 166010821,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 19
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇青州村上洲29号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/161454983/",
+        "name": "金年任（闽江学院东门店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 161454983,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 20
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇闽江学院东门25号店"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/166286175/",
+        "name": "熊米町寿司（大学城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 166286175,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 21
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "博仕后购物广场上街镇永辉城市生活广场2号楼1层2店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/158453614/",
+        "name": "广芳园老香港茶点（大学城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 158453614,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 22
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大学生街B2区第15号店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/174936427/",
+        "name": "摆渡人音乐餐吧（福建闽院酒店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 174936427,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 23
+            }
+        },
+        "level": [
+            "很好",
+            "5分",
+            "40人评论"
+        ],
+        "address": "福州大学城闽江学院南门内闽院酒店一楼南侧"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/165008563/",
+        "name": "亨得麦（福建中医药大学店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 165008563,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 24
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇华佗路1号福建中医药大学综合楼二层西式风味餐厅"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/192895826/",
+        "name": "EFC韩国炸鸡披萨（大学城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 192895826,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 25
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "闽侯县上街镇马保村马保路29-1号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/170561221/",
+        "name": "螺鼎记螺蛳粉（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 170561221,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 26
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村学府南路福大学生街C1区第18号店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/165688695/",
+        "name": "我家串串香火锅（江夏学院店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 165688695,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 27
+            }
+        },
+        "level": [
+            "很好",
+            "5分",
+            "144人评论"
+        ],
+        "address": "福州大学城上街镇源江路145-8"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/193447770/",
+        "name": "佳味东北烤肉",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 193447770,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 28
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇青州村上洲24-28号D102室"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/112781767/",
+        "name": "金年任（闽侯上街福州大学店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 112781767,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 29
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城福州大学学生生活区"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/184992877/",
+        "name": "柳州螺狮粉（闽江一堂二楼店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 184992877,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 30
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇溪源宫路200号（闽江学院一区第一食堂二楼餐厅）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/192230791/",
+        "name": "蜀合記（中医药大学店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 192230791,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 31
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽侯县修园东路华佗路1号中医药大学学生第二餐厅二楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/101108968/",
+        "name": "老福鼎祖传肉片（福大学生街）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 101108968,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 32
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府南路上街镇岐安村福大学生街B2区9#店"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/193294410/",
+        "name": "陈记片皮鸭（福大学生街店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 193294410,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 1
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大学生街A2区24店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/189790810/",
+        "name": "小巷烧肉料理",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 189790810,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 2
+            }
+        },
+        "level": [
+            "好",
+            "4.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府北路10-169号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/167662195/",
+        "name": "巧妈串串香（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 167662195,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 3
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府南路一点点旁"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1390377291/",
+        "name": "渔家傲（福大玫瑰园店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1390377291,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 4
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇学园路2号福州大学生活区三区玫瑰园二楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/192274565/",
+        "name": "俊哥纸上烤肉",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 192274565,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 5
+            }
+        },
+        "level": [
+            "好",
+            "4.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府北路10-132岐安福大学生街（一点点斜对面）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/163070430/",
+        "name": "自助茶餐厅",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 163070430,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 6
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府南路12号福州大学北门教工餐厅二楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/187803928/",
+        "name": "旋转火锅",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 187803928,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 7
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽侯县源江路"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/192560560/",
+        "name": "左左香老潼关肉夹馍（福大学生街店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 192560560,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 8
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大学生街B2区学府北路10-123号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/159397061/",
+        "name": "韩馨缘",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 159397061,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 9
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城文贤路26号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1297504276/",
+        "name": "里仁为美（溪源宫店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1297504276,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 10
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城溪源宫路200号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/193075856/",
+        "name": "陈氏正宗驴肉火烧（江夏三堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 193075856,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 11
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇福建江夏学院生活区第三食堂一楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/101002375/",
+        "name": "最爱的蛋糕",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 101002375,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 12
+            }
+        },
+        "level": [
+            "很好",
+            "5分",
+            "41人评论"
+        ],
+        "address": "福州大学城源江路15号岐安商业街1层大门口"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1129986884/",
+        "name": "99自助餐",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1129986884,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 13
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城福大生活三区玫瑰园二楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1878226/",
+        "name": "向阳坊（大学城师大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1878226,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 14
+            }
+        },
+        "level": [
+            "不错",
+            "3.7分",
+            "110人评论"
+        ],
+        "address": "福州师范大学（旗山校区）福建师范大学旗山校区文化街126号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/160729046/",
+        "name": "帽牌货冒菜（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 160729046,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 15
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大学生街B3区16号店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1059047637/",
+        "name": "一人罐焖肉饭（闽江店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1059047637,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 16
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇青州村上洲24-6号D103室（陈宗伙宅）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/150125768/",
+        "name": "天宫印度餐厅",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 150125768,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 17
+            }
+        },
+        "level": [
+            "好",
+            "4.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府北路10-25号福大生活1区岐安学生街"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/164879707/",
+        "name": "叫了个炸鸡（福大学生街）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 164879707,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 18
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安花园二期26栋116号一楼（林芳玉宅）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1847545427/",
+        "name": "CT Cafe（福州大学城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1847545427,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 19
+            }
+        },
+        "level": [
+            "好",
+            "4.2分",
+            "11人评论"
+        ],
+        "address": "福州大学城学府北路10-166"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/160581691/",
+        "name": "知沙拉轻食（大学城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 160581691,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 20
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "闽侯县上街镇大学城蔗洲村科技路商业店面第2幢第2层第4号店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1297552652/",
+        "name": "深夜豆浆",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1297552652,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 21
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城溪源宫路10-180号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/160676723/",
+        "name": "秘觉（大学城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 160676723,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 22
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "闽侯县闽侯上街镇马保村古井片一层（程祥彬宅）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/193413780/",
+        "name": "1點點（闽院店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 193413780,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 23
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽江学院第三食堂一层13号店铺"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/185505794/",
+        "name": "沙茶面",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 185505794,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 24
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽侯县上街镇闽江学院第一食堂"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/168728762/",
+        "name": "马来一号·海南鸡饭（闽侯大学城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 168728762,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 25
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇建平村金上大道博士后家园05店面50-35"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/160432899/",
+        "name": "肉蟹煲（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 160432899,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 26
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "642人评论"
+        ],
+        "address": "福州大学城闽侯上街福州大学一区学生街沿街6号店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/115225511/",
+        "name": "古茗（学生街店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 115225511,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 27
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大学生街C1区第1#店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/165724867/",
+        "name": "同婆婆（福州闽侯福大学生街店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 165724867,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 28
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽侯福大学生城溪源宫路"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/88279515/",
+        "name": "福建医科大学东区食堂",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 88279515,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 29
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学院路1号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1340805086/",
+        "name": "喜仕屋·牛丼咖喱（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1340805086,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 30
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大学生街A2区学府北路10-60号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/119617165/",
+        "name": "周麻婆（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 119617165,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 31
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇溪源宫路岐安村（福州大学西门美食街）福大学生街D区1-5店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/180348231/",
+        "name": "福建中医药大学学生第一餐厅",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 180348231,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 32
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城邱阳路1号福建中医药大学旗山校区"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/150054431/",
+        "name": "樱木寿司",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 150054431,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 1
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "2人评论"
+        ],
+        "address": "福州大学城上街国宾大道233号博仕后时代购物广场升辉超市收银台旁"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/185256857/",
+        "name": "乐咖乐",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 185256857,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 2
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城福银高速公路闽江学院对面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/163371866/",
+        "name": "肉骨茶（丁香园店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 163371866,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 3
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇学园路2号福大生活一区丁香园餐厅"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1849810042/",
+        "name": "贵州苗妹子（台湾夜肆店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1849810042,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 4
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇溪源宫80号（德玛电动车旁）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/169049606/",
+        "name": "睿健卡路里轻食健康餐（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 169049606,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 5
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城建平路岐安商业中心C区2楼27#"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/110290014/",
+        "name": "真滋味云南过桥米线",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 110290014,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 6
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大学生街B区4店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1155800268/",
+        "name": "益禾堂（福大校内玫瑰园食堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1155800268,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 7
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇学园路2号福州大学生活二区玫瑰园餐厅"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/165816308/",
+        "name": "烤焱自助",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 165816308,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 8
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府北路57号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/99043471/",
+        "name": "快乐番薯（大学城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 99043471,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 9
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "闽侯县上街镇大学城科技路第三幢"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/163274187/",
+        "name": "潮合味 汕头牛肉火锅",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 163274187,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 10
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大生活区A2区5-6店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1234216398/",
+        "name": "正宗山东杂粮煎饼（美食城108号店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1234216398,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 11
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "仓山区建新镇劳光村上店93号-108店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/192627374/",
+        "name": "影哥叻沙",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 192627374,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 12
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽侯县福大生活区三区紫荆园二楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/4813393/",
+        "name": "鸭掌门",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 4813393,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 13
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇溪源宫路200号闽江学院西门"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1465155658/",
+        "name": "汴京茶寮",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1465155658,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 14
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府北路10-200号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/113019742/",
+        "name": "醇味小厨石锅拌饭简餐",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 113019742,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 15
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城文贤路闽江学院"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/177745837/",
+        "name": "七彩人生低卡健身餐厅（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 177745837,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 16
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府南路岐安村福大学生街A1区26号店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/181506573/",
+        "name": "武夷小炒",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 181506573,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 17
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城华佗路1号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/164456853/",
+        "name": "缘味先（石锅饭福职食堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 164456853,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 18
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城福州职业技术学院食堂三楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/185807298/",
+        "name": "每日轻食（江夏二堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 185807298,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 19
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇学府北路福建江夏学院1号食堂2楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/4290367/",
+        "name": "卤至深",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 4290367,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 20
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽江学院东门"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1724550651/",
+        "name": "台湾水晶锅",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1724550651,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 21
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府北路10-8"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/160806118/",
+        "name": "苏记生煎",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 160806118,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 22
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大学生街A2区03#11店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/42375139/",
+        "name": "中医药第二餐厅",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 42375139,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 23
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城邱阳西路中医药大学食堂"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/182498823/",
+        "name": "黄焖鸡米饭（闽江三堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 182498823,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 24
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城文贤路闽江学院三区第三食堂三楼餐厅A4号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/127088360/",
+        "name": "香酥鸡蛋灌饼",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 127088360,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 25
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大学生街B区01-（04）店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/164561445/",
+        "name": "麻辣香锅（江夏一堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 164561445,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 26
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇福建江夏学院第一食堂"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/193156810/",
+        "name": "叁俩",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 193156810,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 27
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇建平村金上大道博仕后家园1#店面14"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/700690361/",
+        "name": "鼎哥正宗福鼎小吃（美食城一楼102号店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 700690361,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 28
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "仓山区建新镇劳光村上店93号—102店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1731136788/",
+        "name": "东北烤肉",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1731136788,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 29
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城溪源宫路"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1934135212/",
+        "name": "美汉堡（福大学生街店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1934135212,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 30
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城岐安村福大学生街A2区学府北路10-68号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1214151491/",
+        "name": "攀成钢小郡肝串串香",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1214151491,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 31
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城联榕路15-125"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/165939652/",
+        "name": "益禾堂（福大学生街店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 165939652,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 32
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大学生街A2区第1间#2店铺"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/658517327/",
+        "name": "知沙轻食沙拉意面（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 658517327,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 1
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村商业中心二楼08号店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/78631423/",
+        "name": "鲑鱼工坊（大学城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 78631423,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 2
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "63人评论"
+        ],
+        "address": "博仕后购物广场上街镇国宾大道永嘉天地（永辉超市内）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/182658898/",
+        "name": "蒸百味（江夏一堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 182658898,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 3
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇福建江夏学院第一食堂"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/169276207/",
+        "name": "黄小脆（大学城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 169276207,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 4
+            }
+        },
+        "level": [
+            "好",
+            "4.3分",
+            "66人评论"
+        ],
+        "address": "新西客站福州上街镇广贤路6号大学城公交总站综合楼A座一层08店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/166028785/",
+        "name": "北方小吃（中医药大学四面八方风味美食餐厅店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 166028785,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 5
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇邱阳西路123号中医药大学四面八方风味美食餐厅"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/2501003/",
+        "name": "膳品居大酒楼",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 2501003,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 6
+            }
+        },
+        "level": [
+            "好",
+            "4.2分",
+            "715人评论"
+        ],
+        "address": "福州大学城邱阳西路中医药大学正门口北行（省中医学院新区公交站）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1057536239/",
+        "name": "美香源廣東烧腊",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1057536239,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 7
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城建平路岐安商业街侧面岐安三号二期南门"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/5024179/",
+        "name": "凯旋烘焙",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 5024179,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 8
+            }
+        },
+        "level": [
+            "好",
+            "4.4分",
+            "18人评论"
+        ],
+        "address": "福州大学城源江路与源通西路交叉口东北角"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1877710/",
+        "name": "闽江学院第一食堂",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1877710,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 9
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城思远路与月泉路交叉口东150米"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/160092170/",
+        "name": "美味广东肠粉",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 160092170,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 10
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城溪源宫路福大学生街A2区4号店"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/165597992/",
+        "name": "懂不懂（榕桥店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 165597992,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 11
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城联榕路125号8号店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1596601776/",
+        "name": "山西面食水饺（三堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1596601776,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 12
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇溪源宫路200号闽江学院内学生公寓三区食堂二楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/193357116/",
+        "name": "长乐冰饭饮品冰饭（大学城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 193357116,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 13
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇明德路6号万科金域蓝湾S3栋1层125商业"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1509327223/",
+        "name": "粒粒香炒饭（四堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1509327223,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 14
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇溪源宫路200号（闽江学院生活区四区举园三楼餐厅）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/185138824/",
+        "name": "醉沙县（一堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 185138824,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 15
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇闽侯县上街镇溪源宫路200号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/156359416/",
+        "name": "姐妹福鼎肉片·手抓饼",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 156359416,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 16
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽侯上街镇岐安村福大学生街B2第一间4段店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/188874153/",
+        "name": "益禾堂",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 188874153,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 17
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽侯县上街镇青州村闽江学院东门商业店面上洲52号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1489315785/",
+        "name": "兴兴农家菜馆（聚会团餐宴请）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1489315785,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 18
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城溪源宫路"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/155351577/",
+        "name": "兰州拉面",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 155351577,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 19
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城文贤路闽江学院第三食堂二楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1845039384/",
+        "name": "逢考必过·烧烤店",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1845039384,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 20
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇榕桥村幸福22-6号榕桥村委会旁"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/90662733/",
+        "name": "适百客寿司乌冬面",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 90662733,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 21
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇青州村上州19号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1152780952/",
+        "name": "她的甜蜜",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1152780952,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 22
+            }
+        },
+        "level": [
+            "很好",
+            "5分",
+            "14人评论"
+        ],
+        "address": "福州大学城岐安福大学生街学府北路10-83（福大学生街店）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/192137658/",
+        "name": "米眷粥坊（大学城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 192137658,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 23
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇建平路50号博仕后家园1号楼1层11店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1649397957/",
+        "name": "格里香卤味+串串（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1649397957,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 24
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福学府北路10-201店面（大学生街B3区）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1382658288/",
+        "name": "美式风味牛排饭（大学城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1382658288,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 25
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "博仕后购物广场上街镇国宾大道233号博仕后家园B区1-2#楼1层119商业"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/185300929/",
+        "name": "luckin coffee瑞幸咖啡（福州大学紫荆园店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 185300929,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 26
+            }
+        },
+        "level": [
+            "好",
+            "4.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府北路福州大学生活三区紫荆园餐厅二层"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1489654350/",
+        "name": "廣東燒鸭飯",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1489654350,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 27
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府北路10-171"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/114141334/",
+        "name": "锦阳轩",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 114141334,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 28
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽江学院北门1层28号店铺"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/771749671/",
+        "name": "艾优客汉堡炸鸡（食堂一楼店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 771749671,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 29
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇溪源宫路63号福建农林大学旗山校区第一餐厅"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/185483503/",
+        "name": "匠·SWEET",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 185483503,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 30
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城榕桥村超山62-103号一只宠物右手边（朱天辉宅）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/164410816/",
+        "name": "干一锅",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 164410816,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 31
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "1人评论"
+        ],
+        "address": "福州大学城岐安福大学生街c1区02和03店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/186308483/",
+        "name": "骨汤麻辣烫",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 186308483,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 32
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇华佗路1号福建中医药大学旗山校区食堂综合二楼风味美食城"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/82771817/",
+        "name": "吴记广东肠粉（福鼎肉片）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 82771817,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 1
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇学园路转弯处11号店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/193468129/",
+        "name": "亲爱的麻辣烫（闽侯师大学生街店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 193468129,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 2
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽侯县学府北路10-107"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/4036303/",
+        "name": "香辣鱼庄",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 4036303,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 3
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城溪源宫路与学府南路交叉口"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/165802775/",
+        "name": "益禾堂（福职店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 165802775,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 4
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇榕桥学生街17号（职业技术学院东南门对面）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/156819522/",
+        "name": "缘味先石锅饭",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 156819522,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 5
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街高架桥美居公寓旁"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/159276818/",
+        "name": "1點點（闽侯福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 159276818,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 6
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城溪源宫路福州大学生活一区学生街A2区115"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/4587226/",
+        "name": "鸡排先生",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 4587226,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 7
+            }
+        },
+        "level": [
+            "很好",
+            "4.9分",
+            "74人评论"
+        ],
+        "address": "福州大学城美岐学生街2排11门店"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/181330426/",
+        "name": "二孃鸡爪爪",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 181330426,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 8
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府北路岐安村福大学生街B3区第04、05店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/62479737/",
+        "name": "柴记黄焖鸡米饭",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 62479737,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 9
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城美岐学生街靠医科大学方向由西往东第十五间店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/164923116/",
+        "name": "知味轩",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 164923116,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 10
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城福建中医药大学五谷香餐厅"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/169391951/",
+        "name": "桥头排骨（大学城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 169391951,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 11
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "博仕后购物广场国宾大道233号博仕后家园B区3-1号楼1层101店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1864785747/",
+        "name": "大学城酒楼",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1864785747,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 12
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城溪源宫路200号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1636615904/",
+        "name": "北京麻辣香锅（江夏三堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1636615904,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 13
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇上街镇福建江夏学院2号食堂1楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/110912138/",
+        "name": "胡记凉皮",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 110912138,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 14
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城福州大学岐安商业街一层11摊位"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/163499175/",
+        "name": "元气满满咖喱",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 163499175,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 15
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇源江路青州村村口综合楼东座一层十一号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/774762011/",
+        "name": "饭小萌炒饭·烤肉饭（大学城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 774762011,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 16
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "博仕后购物广场上街镇国宾大道233号博仕后家园B区2-2#楼1层126商业"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/186068246/",
+        "name": "猫叫了只鱼（玫瑰园店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 186068246,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 17
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇学园路2号福州大学生活二区玫瑰园餐厅"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/193213261/",
+        "name": "蚵仔煎",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 193213261,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 18
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城福大学生街"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/188700287/",
+        "name": "小都会鲜捞",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 188700287,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 19
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽侯县源江路东50米袁岐教育综合楼附近"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/51275740/",
+        "name": "华莱士（闽侯上街大学城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 51275740,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 20
+            }
+        },
+        "level": [
+            "不错",
+            "3.7分",
+            "1052人评论"
+        ],
+        "address": "新西客站上街镇广贤路6号大学城公交总站大排档（老地方）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/194280142/",
+        "name": "正宗潮汕肠粉",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 194280142,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 21
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇榕桥村超山3-105号（王天生宅）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/4825728/",
+        "name": "芋见甜品",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 4825728,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 22
+            }
+        },
+        "level": [
+            "好",
+            "4.1分",
+            "9人评论"
+        ],
+        "address": "福州大学城闽江学院西门右拐30米瓦岗寨旁楼道2楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/159301471/",
+        "name": "玛格利塔（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 159301471,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 23
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇学园路2号福州大学和兴隆玫瑰园餐厅18号档口"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/97449020/",
+        "name": "古茗奶茶店（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 97449020,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 24
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村商业中心C区一楼13#店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/581750754/",
+        "name": "昔田寿司",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 581750754,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 25
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府北路10-106"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/194321630/",
+        "name": "幸福西饼蛋糕（福州大学城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 194321630,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 26
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "新上街/钱隆城上街镇上街村源通东路126-13号（赵金华宅）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/163232548/",
+        "name": "小米米大碗饭（江夏一堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 163232548,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 27
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇上街镇福建江夏学院1号食堂1楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/167579869/",
+        "name": "田派沙拉（江夏店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 167579869,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 28
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇美岐村1号安置小区1-4号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/185546266/",
+        "name": "典藏时光·休闲咖",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 185546266,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 29
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城源江路150号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/193573362/",
+        "name": "李岩山简餐",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 193573362,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 30
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村岐西71号D103室（方赛珠宅）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/6518083/",
+        "name": "重庆鸡公煲（闽江学院店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 6518083,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 31
+            }
+        },
+        "level": [
+            "不错",
+            "3.9分",
+            "0人评论"
+        ],
+        "address": "福州大学城大学城美食街"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/179124385/",
+        "name": "古茗（青州村店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 179124385,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 32
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇青州村上洲46号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/166270410/",
+        "name": "闽南香饭",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 166270410,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 1
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇源江路透头20-2号（江夏学院美岐村）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/40884305/",
+        "name": "皇小鸡江夏店（江夏店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 40884305,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 2
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城江夏学院美岐学生街"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/153166801/",
+        "name": "福建师范大学旗山校区-桃苑美食城",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 153166801,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 3
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州师范大学（旗山校区）桂榕路与桃李路交叉口西100米"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/165688695/",
+        "name": "我家串串香火锅（江夏学院店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 165688695,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 4
+            }
+        },
+        "level": [
+            "很好",
+            "5分",
+            "144人评论"
+        ],
+        "address": "福州大学城上街镇源江路145-8"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/167025820/",
+        "name": "饭饭之交（江夏店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 167025820,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 5
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城江夏学院美岐段"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/187735167/",
+        "name": "甘茗城",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 187735167,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 6
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州师范大学（旗山校区）福建师范大学南区随园餐厅旁"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/116648362/",
+        "name": "杨国福麻辣烫（玫瑰园店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 116648362,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 7
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇学园路2号福州大学生活三区玫瑰园二楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/164270183/",
+        "name": "安福大学生街",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 164270183,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 8
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城溪源宫路12号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/187224044/",
+        "name": "鲜享食呈酸奶捞（江夏店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 187224044,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 9
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇青州村上洲25-5号（郑利仁宅）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1045602523/",
+        "name": "豪客吉（医科大学店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1045602523,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 10
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府北路"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1720952799/",
+        "name": "P城美食",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1720952799,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 11
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇青洲村上洲21-1号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/162872500/",
+        "name": "贡茶（福大学生街店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 162872500,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 12
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安福大学生街C1区第18号店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/119849155/",
+        "name": "可可烘培（福大学生街店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 119849155,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 13
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大学生街B2区3#店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/170561221/",
+        "name": "螺鼎记螺蛳粉（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 170561221,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 14
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村学府南路福大学生街C1区第18号店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/163232548/",
+        "name": "小米米大碗饭（江夏一堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 163232548,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 15
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇上街镇福建江夏学院1号食堂1楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/166218785/",
+        "name": "益禾堂（中医药店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 166218785,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 16
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城福建中医药大学"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/193075856/",
+        "name": "陈氏正宗驴肉火烧（江夏三堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 193075856,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 17
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇福建江夏学院生活区第三食堂一楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/41887215/",
+        "name": "家谷粒（石锅拌饭）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 41887215,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 18
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽江学院东门"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/110290014/",
+        "name": "真滋味云南过桥米线",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 110290014,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 19
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大学生街B区4店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/4234714/",
+        "name": "重庆鸡公煲万州烤鱼（819分店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 4234714,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 20
+            }
+        },
+        "level": [
+            "一般",
+            "3.4分",
+            "152人评论"
+        ],
+        "address": "福州大学城福州大学生活一区学生街"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/91955294/",
+        "name": "琴姐台湾手抓饼（江夏店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 91955294,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 21
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城源通西路美岐段第2幢第1层附近"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/167662195/",
+        "name": "巧妈串串香（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 167662195,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 22
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府南路一点点旁"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/186308483/",
+        "name": "骨汤麻辣烫",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 186308483,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 23
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇华佗路1号福建中医药大学旗山校区食堂综合二楼风味美食城"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/177745837/",
+        "name": "七彩人生低卡健身餐厅（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 177745837,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 24
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府南路岐安村福大学生街A1区26号店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/165986409/",
+        "name": "鲜享食呈",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 165986409,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 25
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城邱阳西路中医药大学食堂"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/98821067/",
+        "name": "芝佰味蛋挞王（江夏店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 98821067,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 26
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇美岐学生街10号店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/158847376/",
+        "name": "京元美食餐厅",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 158847376,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 27
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇21号楼3号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/114141334/",
+        "name": "锦阳轩",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 114141334,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 28
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽江学院北门1层28号店铺"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/190580828/",
+        "name": "客家鲜肉汤（江夏一堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 190580828,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 29
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇学府北路福建江夏学院1号食堂1楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/182496773/",
+        "name": "淳百味",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 182496773,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 30
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城大学城江夏学院第一食堂一楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/69900056/",
+        "name": "一品香蛋糕房（闽侯提货点）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 69900056,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 31
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "8人评论"
+        ],
+        "address": "福州大学城江夏学院美岐学生街内"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/194280142/",
+        "name": "正宗潮汕肠粉",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 194280142,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 32
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇榕桥村超山3-105号（王天生宅）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/155023794/",
+        "name": "懂不懂（美岐店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 155023794,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 1
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇大学城后庭路美岐段第贰层213-218店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/182607364/",
+        "name": "面夫子",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 182607364,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 2
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府南路福州大学玫瑰园餐厅一楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/158371297/",
+        "name": "啊龙烧烤",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 158371297,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 3
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府北路3号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/75388960/",
+        "name": "绝味鸭脖",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 75388960,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 4
+            }
+        },
+        "level": [
+            "不错",
+            "3.8分",
+            "0人评论"
+        ],
+        "address": "福州大学城大学城源通西路江夏学院学生街"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/42342902/",
+        "name": "pizza在路上",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 42342902,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 5
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "1人评论"
+        ],
+        "address": "福州大学城闽江学院北门学生街19号店"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/165172129/",
+        "name": "珍品速食中式套餐（江夏四堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 165172129,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 6
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城福建江夏学院生活区第四餐厅"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/119954255/",
+        "name": "壹品贡茶（江夏店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 119954255,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 7
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城福建江夏学院生活区学生街252号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/194718558/",
+        "name": "壹拾壹（西区二楼店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 194718558,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 8
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇学园路1号福建医科大学学生生活区西区餐厅二、三层"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/165273805/",
+        "name": "张小姐饭吧",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 165273805,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 9
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇榕桥村超山（王金俤宅）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/158712002/",
+        "name": "烤上轩铁板烤饭",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 158712002,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 10
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇大学城源江路美岐一号小区一号楼一层店面第34-2号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/170667358/",
+        "name": "巧吃牛耗馆",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 170667358,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 11
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城源江路145-46号一层店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/185313155/",
+        "name": "泡面达人馆（江夏店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 185313155,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 12
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇大学城后庭路美岐段铁棚第1-2号临时店面（源通西路59号）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/193294410/",
+        "name": "陈记片皮鸭（福大学生街店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 193294410,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 13
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大学生街A2区24店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/165008563/",
+        "name": "亨得麦（福建中医药大学店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 165008563,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 14
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇华佗路1号福建中医药大学综合楼二层西式风味餐厅"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/166028785/",
+        "name": "北方小吃（中医药大学四面八方风味美食餐厅店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 166028785,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 15
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇邱阳西路123号中医药大学四面八方风味美食餐厅"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/177822009/",
+        "name": "糖圆子甜品屋（福大学生街店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 177822009,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 16
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "3人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大学生街B1区07店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/192560560/",
+        "name": "左左香老潼关肉夹馍（福大学生街店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 192560560,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 17
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大学生街B2区学府北路10-123号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/186532259/",
+        "name": "食城砂锅麻辣烫重庆小面",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 186532259,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 18
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府北路学生街B2区08店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/166043786/",
+        "name": "阿肥发（展园美食城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 166043786,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 19
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州师范大学（旗山校区）学府南路上街镇师范大学旗山校区南区食堂二楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1228725421/",
+        "name": "学长水果（福大学生街店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1228725421,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 20
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大学生街B2区17店面（学府北路10-126）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1440847919/",
+        "name": "益禾堂（福建医科大学分店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1440847919,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 21
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇劳光"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1934135212/",
+        "name": "美汉堡（福大学生街店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1934135212,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 22
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城岐安村福大学生街A2区学府北路10-68号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/41794709/",
+        "name": "韩国石锅拌饭（最正宗店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 41794709,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 23
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城江夏学院教学区西门"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/189653964/",
+        "name": "精品快餐（江夏三堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 189653964,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 24
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇上街镇福建江夏学院2号食堂1楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/159301471/",
+        "name": "玛格利塔（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 159301471,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 25
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇学园路2号福州大学和兴隆玫瑰园餐厅18号档口"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1624389661/",
+        "name": "中医药大学五谷香渔粉渔饭（五谷香餐厅）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1624389661,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 26
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇华佗路1号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/159037103/",
+        "name": "学姐的店",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 159037103,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 27
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城源通西路"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/94635804/",
+        "name": "港式铁板烧",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 94635804,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 28
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城盖山镇阳岐路71号2#楼一层A区"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/171852123/",
+        "name": "知沙拉·轻餐（江夏店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 171852123,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 29
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城江夏学院美食街"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/195010309/",
+        "name": "东北地炉烤肉",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 195010309,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 30
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城源江路"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/60901584/",
+        "name": "朋友圈食锦记",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 60901584,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 31
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽江学院东门"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/188736711/",
+        "name": "大小姐的饭江夏三堂",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 188736711,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 32
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽侯县上街镇大学城江夏学院生活区第三食堂"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/101002375/",
+        "name": "最爱的蛋糕",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 101002375,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 1
+            }
+        },
+        "level": [
+            "很好",
+            "5分",
+            "41人评论"
+        ],
+        "address": "福州大学城源江路15号岐安商业街1层大门口"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/165802775/",
+        "name": "益禾堂（福职店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 165802775,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 2
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇榕桥学生街17号（职业技术学院东南门对面）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/185807298/",
+        "name": "每日轻食（江夏二堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 185807298,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 3
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇学府北路福建江夏学院1号食堂2楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/156825594/",
+        "name": "酷乐普斯蛋包饭（江夏学院店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 156825594,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 4
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇源通西路132号福建江夏学院第一食堂"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/165957957/",
+        "name": "益禾堂（江夏学院店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 165957957,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 5
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城源通西路40号（江夏学院生活区大门正对面）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/97449020/",
+        "name": "古茗奶茶店（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 97449020,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 6
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村商业中心C区一楼13#店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/164561445/",
+        "name": "麻辣香锅（江夏一堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 164561445,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 7
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇福建江夏学院第一食堂"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/193448000/",
+        "name": "莆田卤面馆（玫瑰园二楼店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 193448000,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 8
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇学园路2号福州大学生活三区玫瑰园二楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/127088360/",
+        "name": "香酥鸡蛋灌饼",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 127088360,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 9
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大学生街B区01-（04）店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/193156810/",
+        "name": "叁俩",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 193156810,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 10
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇建平村金上大道博仕后家园1#店面14"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/5654892/",
+        "name": "甜丫丫",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 5654892,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 11
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽江学院东门（瑞康药店正对面）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/189375907/",
+        "name": "兰州拉面（江夏三堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 189375907,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 12
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇上街镇福建江夏学院2号食堂1楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/167579869/",
+        "name": "田派沙拉（江夏店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 167579869,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 13
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇美岐村1号安置小区1-4号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/159262388/",
+        "name": "江夏小破屋",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 159262388,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 14
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城源江路56号江夏学院4号教学楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/181330426/",
+        "name": "二孃鸡爪爪",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 181330426,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 15
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府北路岐安村福大学生街B3区第04、05店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/194161247/",
+        "name": "香果汇（江夏二堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 194161247,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 16
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇上街镇福建江夏学院1号食堂2楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/192306817/",
+        "name": "荣记莆田卤面（闽江四堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 192306817,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 17
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇溪源宫路200号闽江学院第四食堂二楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/165472475/",
+        "name": "山东杂粮煎饼",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 165472475,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 18
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城溪源宫路2号福建江夏学院（东南门）旁"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/166033817/",
+        "name": "老街影咖（闽江学院店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 166033817,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 19
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "14人评论"
+        ],
+        "address": "福州大学城文贤路1号店闽江学院西门嘿大叔对面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/194481586/",
+        "name": "IC6",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 194481586,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 20
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街大学城闽江学院第二食堂二楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/163925250/",
+        "name": "翔锋记武汉热干面",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 163925250,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 21
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城福大生活区三区玫瑰园二楼瑞善餐饮"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/156657888/",
+        "name": "加热卤味",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 156657888,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 22
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇榕桥村学生街一层第22号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/6006544/",
+        "name": "十二号食铺",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 6006544,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 23
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安商业中心A楼12号店"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/150054431/",
+        "name": "樱木寿司",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 150054431,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 24
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "2人评论"
+        ],
+        "address": "福州大学城上街国宾大道233号博仕后时代购物广场升辉超市收银台旁"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/95319142/",
+        "name": "山东杂粮煎饼",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 95319142,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 25
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城源通西路与学府北路交叉口旁"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/6518083/",
+        "name": "重庆鸡公煲（闽江学院店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 6518083,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 26
+            }
+        },
+        "level": [
+            "不错",
+            "3.9分",
+            "0人评论"
+        ],
+        "address": "福州大学城大学城美食街"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/4813393/",
+        "name": "鸭掌门",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 4813393,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 27
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇溪源宫路200号闽江学院西门"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/181336364/",
+        "name": "觅姐汤可以喝的麻辣烫（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 181336364,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 28
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇福大学生街A区16号店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/182597236/",
+        "name": "水水缤纷",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 182597236,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 29
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城文贤路闽江学院第3食堂"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/156659796/",
+        "name": "武汉热干面（鸭血粉）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 156659796,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 30
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽江学院第三食堂二楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/193609011/",
+        "name": "北海小镇（福职食堂三楼店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 193609011,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 31
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇大学城联榕路8号福州职业技术学院南区学生食堂三层"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/95594206/",
+        "name": "余记烧烤",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 95594206,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 32
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇青州村闽江学院东门学生街B座26-27门店"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/184985501/",
+        "name": "阿里郎（江夏二堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 184985501,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 1
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇上街镇福建江夏学院1号食堂2楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/182065203/",
+        "name": "忆芳茗",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 182065203,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 2
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇福州大学旗山校区学生生活区15号楼15-4"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/179976482/",
+        "name": "泡面王",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 179976482,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 3
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城福银高速公路"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/582708612/",
+        "name": "土家酱香饼（台湾夜肆美食城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 582708612,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 4
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇溪源宫路80号（德玛电动车旁）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1938632541/",
+        "name": "酱骨套餐饭（台湾夜肆美食城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1938632541,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 5
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇溪源宫路80号（德玛电动车旁）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1135366945/",
+        "name": "全季特色炒饭（台湾夜肆美食城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1135366945,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 6
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇溪源宫路80号（德玛电动车旁）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/940860438/",
+        "name": "樱都精致寿司（台湾夜肆美食城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 940860438,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 7
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇溪源宫路80号（德玛电动车旁）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/601551130/",
+        "name": "紫萱大排档（美食城二楼208号店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 601551130,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 8
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "仓山区建新镇劳光村上店93号208、209店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1938295226/",
+        "name": "吃货香锅麻辣烫（美食城一楼108号店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1938295226,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 9
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "仓山区建新镇劳光村上店93号—108店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1477282535/",
+        "name": "蜜汁鸭煲饭（美食城负一楼106号店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1477282535,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 10
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "仓山区建新镇劳光村上店93号—106店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/700690361/",
+        "name": "鼎哥正宗福鼎小吃（美食城一楼102号店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 700690361,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 11
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "仓山区建新镇劳光村上店93号—102店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1822990817/",
+        "name": "耐卡基炸鸡汉堡（美食城负一楼107号店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1822990817,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 12
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "仓山区建新镇劳光村上店93-107号店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1618502573/",
+        "name": "千秋百味牛排饭意面（美食城负一楼103号店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1618502573,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 13
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "仓山区建新镇劳光村上店93号—103店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1234216398/",
+        "name": "正宗山东杂粮煎饼（美食城108号店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1234216398,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 14
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "仓山区建新镇劳光村上店93号-108店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/192595614/",
+        "name": "甘茗城（福大至诚小站店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 192595614,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 15
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "鼓楼区杨桥西路50号西小门（至诚小站内）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1258112723/",
+        "name": "优美思水果捞（师范大学旗山校区）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1258112723,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 16
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽侯师范大学旗山校区翠竹园美食餐厅一楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1459278296/",
+        "name": "luckin coffee瑞幸咖啡（福建医科大学店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1459278296,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 17
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇学院路1号福建医科大学学生生活区西区第二食堂三层"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1244824741/",
+        "name": "滋补蒸鸡饭（美食城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1244824741,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 18
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "仓山区建新镇劳光村上店17号一层第一间店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/891759110/",
+        "name": "川香面馆（美食城店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 891759110,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 19
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "仓山区建新镇劳光村上下店路上店93号-203店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/192627374/",
+        "name": "影哥叻沙",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 192627374,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 20
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽侯县福大生活区三区紫荆园二楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/168479396/",
+        "name": "HEY GIRL黑米饭团",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 168479396,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 21
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城福州大学学生生活区"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1889238469/",
+        "name": "樱喜屋日式料理",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1889238469,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 22
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "8人评论"
+        ],
+        "address": "福州大学城学府北路10-21"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1155800268/",
+        "name": "益禾堂（福大校内玫瑰园食堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1155800268,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 23
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇学园路2号福州大学生活二区玫瑰园餐厅"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1911543656/",
+        "name": "老成都火锅",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1911543656,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 24
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "4人评论"
+        ],
+        "address": "福州大学城上街镇榕桥村学生街二层第1-2号店面（联榕路15-201号）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/719513578/",
+        "name": "豪客吉炸鸡汉堡（西区二楼店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 719513578,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 25
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇学园路1号福建医科大学学生生活区西区餐厅二、三层"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1461721647/",
+        "name": "芋时代",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1461721647,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 26
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城联榕路"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1870329446/",
+        "name": "半日閑Dessert Studio甜品芋圆",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1870329446,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 27
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府北路10-76（岐安村福大学生街A2区24店面）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1591730493/",
+        "name": "一米香牛肉饭（闽江二堂一楼店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1591730493,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 28
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇溪源宫路200号闽江学院二区第二食堂一楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/640713300/",
+        "name": "萍福烤冷面（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 640713300,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 29
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村岐西33号（方家权宅）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1465155658/",
+        "name": "汴京茶寮",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1465155658,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 30
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府北路10-200号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1297552652/",
+        "name": "深夜豆浆",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1297552652,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 31
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城溪源宫路10-180号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/658517327/",
+        "name": "知沙轻食沙拉意面（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 658517327,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 32
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村商业中心二楼08号店面"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/659629178/",
+        "name": "煎饼果子（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 659629178,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 1
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大学生街A2区学府北路10-50号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1390377291/",
+        "name": "渔家傲（福大玫瑰园店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1390377291,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 2
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇学园路2号福州大学生活区三区玫瑰园二楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1649397957/",
+        "name": "格里香卤味+串串（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1649397957,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 3
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福学府北路10-201店面（大学生街B3区）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1152780952/",
+        "name": "她的甜蜜",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1152780952,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 4
+            }
+        },
+        "level": [
+            "很好",
+            "5分",
+            "14人评论"
+        ],
+        "address": "福州大学城岐安福大学生街学府北路10-83（福大学生街店）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1509327223/",
+        "name": "粒粒香炒饭（四堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1509327223,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 5
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇溪源宫路200号（闽江学院生活区四区举园三楼餐厅）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1340805086/",
+        "name": "喜仕屋·牛丼咖喱（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1340805086,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 6
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大学生街A2区学府北路10-60号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1609145848/",
+        "name": "林葱烤鱼饭（闽江学院店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1609145848,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 7
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇榕桥村学生街联榕路15-228号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1349239950/",
+        "name": "小伙伴汉堡店（江夏店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1349239950,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 8
+            }
+        },
+        "level": [
+            "一般",
+            "3分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇大学城美岐村一号安置小区源江路150-24号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1020081644/",
+        "name": "故事和蛋糕",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1020081644,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 9
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "1人评论"
+        ],
+        "address": "福州大学城源江路青州村劳光34-103"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/740845515/",
+        "name": "高八斗（闽江二堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 740845515,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 10
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇溪源宫路200号（闽江学院二区第二食堂二楼）"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1213169894/",
+        "name": "澳滋烤鸡（四堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1213169894,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 11
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇溪源宫路200号闽江学院第四食堂二楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1596601776/",
+        "name": "山西面食水饺（三堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1596601776,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 12
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇溪源宫路200号闽江学院内学生公寓三区食堂二楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1845039384/",
+        "name": "逢考必过·烧烤店",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1845039384,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 13
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇榕桥村幸福22-6号榕桥村委会旁"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/771749671/",
+        "name": "艾优客汉堡炸鸡（食堂一楼店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 771749671,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 14
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇溪源宫路63号福建农林大学旗山校区第一餐厅"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1356300388/",
+        "name": "外婆卤肉饭（闽侯店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1356300388,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 15
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇美岐村源江路150-52号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1897588210/",
+        "name": "轰炸卡路里（闽江店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1897588210,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 16
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇榕桥村超山53-6号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/861119803/",
+        "name": "乡村瓦罐·套餐（西区二楼店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 861119803,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 17
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇学园路1号福建医科大学学生生活区西区餐厅二、三层"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/581750754/",
+        "name": "昔田寿司",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 581750754,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 18
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府北路10-106"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1092941684/",
+        "name": "多元咖啡（福大店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1092941684,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 19
+            }
+        },
+        "level": [
+            "不错",
+            "4分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府北路"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1731136788/",
+        "name": "东北烤肉",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1731136788,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 20
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城溪源宫路"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/785789238/",
+        "name": "美乐叔牛排饭（医科食堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 785789238,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 21
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇学园路1号福建医科大学学生生活区西区餐厅二、三层"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1724550651/",
+        "name": "台湾水晶锅",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1724550651,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 22
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城学府北路10-8"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1239780582/",
+        "name": "唯客多汉堡炸鸡卤味（江夏三堂店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1239780582,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 23
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇上街镇福建江夏学院2号食堂1楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1708443820/",
+        "name": "阿里山烧烤（台湾夜肆店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1708443820,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 24
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇溪源宫路80号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/193468129/",
+        "name": "亲爱的麻辣烫（闽侯师大学生街店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 193468129,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 25
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城闽侯县学府北路10-107"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1505401826/",
+        "name": "劉俊国麻辣烫",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1505401826,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 26
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城月泉路江夏学院第一食堂二楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1717343866/",
+        "name": "GONGCHA貢茶（福大二区店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1717343866,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 27
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇美岐村一号安置房一期十八号楼源江路150-38"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/501981901/",
+        "name": "胖哥蛋炒饭炒面炒粉",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 501981901,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 28
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇岐安村福大学生街A1区1-6#"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1281961696/",
+        "name": "江南一蘸·简餐",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1281961696,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 29
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇榕桥村超山22号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/846896283/",
+        "name": "1杯茶",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 846896283,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 30
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇中美小区6号楼溪源宫路100-7号"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1977481206/",
+        "name": "城市快炒（学生第一餐厅店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1977481206,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 31
+            }
+        },
+        "level": [
+            "暂无评分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇华佗路1号福建中医药大学旗山校区食堂综合楼二楼"
+    },
+    {
+        "href": "https://www.meituan.com/meishi/1059047637/",
+        "name": "一人罐焖肉饭（闽江店）",
+        "data-id": {
+            "keyword": "大学城",
+            "poi_id": 1059047637,
+            "custom": {
+                "cat_id": 1,
+                "sort_type": "智能排序",
+                "index": 32
+            }
+        },
+        "level": [
+            "一般",
+            "3.5分",
+            "0人评论"
+        ],
+        "address": "福州大学城上街镇青州村上洲24-6号D103室（陈宗伙宅）"
+    }
+]
