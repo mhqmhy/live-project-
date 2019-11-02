@@ -3,7 +3,7 @@
 
 <html>
 
- 
+
 
 <head>
 
@@ -21,7 +21,7 @@
 
     <script src="https://webapi.amap.com/maps?v=1.4.12&key=ff0caab6a3718e7c3f997410082a7d98"></script>
 
-	
+
     <script type="text/javascript" src="https://cache.amap.com/lbs/static/addToolbar.js"></script>
 
     <style>
@@ -44,21 +44,21 @@
 
 </head>
 
- 
+
 
 <body>
 
-    <div id="container"></div>
+<div id="container"></div>
 
-    <script>
+<script>
 
     var map = new AMap.Map('container', {
 
         resizeEnable: true,
 
-        zoom: 5,
+        zoom: 12,
 
-        center: [114.047614, 22.600735],
+        center: [119.35, 26],
 
         mapStyle: 'amap://styles/ac617ee5ac942dc438bc8ae1b99b7939',
 
@@ -69,71 +69,71 @@
         //前往创建自定义地图样式：https://lbs.amap.com/dev/mapstyle/index
 
     });
-//自定义的坐标列表
+    //自定义的坐标列表
     var capitals = [
-		
-		{
 
-        adcode: "",
+        {
 
-        center: [119.336792, 26.090106],
+            adcode: "",
 
-        name: "东二环泰禾广场",
+            center: [119.336792, 26.090106],
 
-        content: "<div><text >东二环泰禾广场:人气最高的商圈;<br/></text><text>大众点评链接：http://www.dianping.com/shop/57305064<br/></text></div>"
+            name: "东二环泰禾广场",
 
-    },{
+            content: "<div><text >东二环泰禾广场:人气最高的商圈;<br/></text><text>大众点评链接：http://www.dianping.com/shop/57305064<br/></text></div>"
 
-        adcode: "",
+        },{
 
-        center: [119.29141, 26.061695],
+            adcode: "",
 
-
-        name: "宝龙城市广场",
-
-        content: "<div><text >宝龙城市广场:人气商圈;<br/></text><text>大众点评链接：http://www.dianping.com/shop/2236300<br/></text></div>"
-
-    },
-		{
-
-        adcode: "",
-
-        center: [119.273922, 26.035605],
+            center: [119.29141, 26.061695],
 
 
-        name: "仓山万达广场",
+            name: "宝龙城市广场",
 
-        content: "<div><text >仓山万达广场:人气商圈;<br/></text><text>大众点评链接：http://www.dianping.com/shop/69914680<br/></text></div>"
+            content: "<div><text >宝龙城市广场:人气商圈;<br/></text><text>大众点评链接：http://www.dianping.com/shop/2236300<br/></text></div>"
 
-    },{
-        adcode: "",
+        },
+        {
 
-        center: [119.30139, 26.086644],
+            adcode: "",
 
-        name: "东街口",
+            center: [119.273922, 26.035605],
 
-        content: "<div><text >东街口:人气商圈;<br/></text><text>大众点评链接https://fz.meituan.com/s/东街口美食/</text></div>"
 
-    },{
+            name: "仓山万达广场",
 
-        adcode: "",
+            content: "<div><text >仓山万达广场:人气商圈;<br/></text><text>大众点评链接：http://www.dianping.com/shop/69914680<br/></text></div>"
 
-        center: [119.34263, 26.053099],
-		
+        },{
+            adcode: "",
 
-        name: "金融街万达广场",
+            center: [119.30139, 26.086644],
 
-        content: "<div><text >金融街万达广场:人气商圈;<br/></text><text>大众点评链接：http://www.dianping.com/shop/4559931<br/></text></div>"
+            name: "东街口",
 
-    }
-	
-	]
+            content: "<div><text >东街口:人气商圈;<br/></text><text>大众点评链接https://fz.meituan.com/s/东街口美食/</text></div>"
+
+        },{
+
+            adcode: "",
+
+            center: [119.34263, 26.053099],
+
+
+            name: "金融街万达广场",
+
+            content: "<div><text >金融街万达广场:人气商圈;<br/></text><text>大众点评链接：http://www.dianping.com/shop/4559931<br/></text></div>"
+
+        }
+
+    ]
 
     //实例化信息窗体
 
     var title = '商圈信息';
 
- 
+
 
     var infoWindowArr = [],
 
@@ -147,7 +147,7 @@
 
             offset: new AMap.Pixel(-10, -10),
 
-            icon: 'https://img2018.cnblogs.com/blog/1799539/201911/1799539-20191102105830026-548958640.png', // 添加 Icon 图标 URL
+            icon: 'https://img2018.cnblogs.com/blog/1799539/201911/1799539-20191102113802773-2109009969.png', // 添加 Icon 图标 URL
 
             title: capitals[i].name,
 
@@ -171,7 +171,7 @@
 
     map.add(facilities);
 
- 
+
 
     for (var i = 0; i < facilities.length; i++) {
 
@@ -187,9 +187,9 @@
 
     }
 
- 
 
- 
+
+
 
     //构建自定义信息窗体
 
@@ -199,7 +199,7 @@
 
         info.className = "custom-info input-card content-window-card";
 
- 
+
 
         //可以通过下面的方式修改自定义窗体的宽高
 
@@ -223,7 +223,7 @@
 
         closeX.onclick = closeInfoWindow;
 
- 
+
 
         top.appendChild(titleD);
 
@@ -231,7 +231,7 @@
 
         info.appendChild(top);
 
- 
+
 
         // 定义中部内容
 
@@ -245,7 +245,7 @@
 
         info.appendChild(middle);
 
- 
+
 
         // 定义底部内容
 
@@ -273,11 +273,11 @@
 
     }
 
-    </script>
+</script>
 
-	
+
 </body>
 
- 
+
 
 </html>
