@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>ECharts</title>
+    <!-- 引入 echarts.js -->
+    <script src="echarts.min.js"></script>
+    <link rel="stylesheet" href="Main.css">
+</head>
+<body>
+<div class="container">
+    <img alt="" src="福州服饰类综合评分最高的商圈.png">
+    <div class="show">
+        <div id="main" style="width: 600px;height:400px;"></div>
+        <script type="text/javascript">
+            // 基于准备好的dom，初始化echarts实例
+            var myChart = echarts.init(document.getElementById('main'));
+
+            // 指定图表的配置项和数据
+            var option = {
+                title: {
+                    text: '服饰'
+                },
+                tooltip: {},
+                // legend: {
+                //     data:['销量']
+                // },
+
+
+
+                "xAxis":[{"data":["东街口商圈","万宝商圈","东二环商圈","浦上商圈","王庄商圈"],
+                    "type":"category",
+                    "axisLabel":{
+                        interval: 0,
+
+                        rotate:10
+                    }
+                }],
+
+                yAxis: {},
+                //color: {blue,blue,blue,blue,blue},
+                series: [{
+                    name: '人气',
+                    type: 'bar',
+                    data: [3370,
+                        380,
+                        320,
+                        300,
+                        250,
+
+                    ]
+                }]
+            };
+
+            // 使用刚指定的配置项和数据显示图表。
+            myChart.setOption(option);
+        </script>
+    </div>
+    <div class="bottom">
+        <input type="button" class="btn" onclick=" window.location.href = './Main.html'" value="美食聚集地"></button>
+        <input type="button" class="btn" onclick=" window.location.href = './Second.html'" value="最佳餐厅"></button>
+        <input type="button" class="btn" onclick=" window.location.href ='./商圈地图.html'" value="最受欢迎商圈"></button>
+        <input type="button" class="btn" onclick=" window.location.href='./Forth.html'" value="服饰类商圈"></button>
+
+    </div>
+
+</div>
+
+
+</body>
+</html>
