@@ -1,0 +1,283 @@
+
+<!doctype html>
+
+<html>
+
+ 
+
+<head>
+
+    <meta charset="utf-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no, width=device-width">
+
+    <title>自定义地图</title>
+
+    <link rel="stylesheet" href="https://cache.amap.com/lbs/static/main1119.css" />
+
+    <!-- <script type="text/javascript" src='https://a.amap.com/jsapi_demos/static/resource/capitals.js'></script> -->
+
+    <script src="https://webapi.amap.com/maps?v=1.4.12&key=ff0caab6a3718e7c3f997410082a7d98"></script>
+
+	
+    <script type="text/javascript" src="https://cache.amap.com/lbs/static/addToolbar.js"></script>
+
+    <style>
+
+        html,body,#container{height:100%;width:100%;font-size:14px;font-family:"Chinese Quote",-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei","Helvetica Neue",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"}
+
+        .content-window-card{position:relative;box-shadow:none;bottom:0;left:0;width:auto;padding:0;border-radius:5px;overflow:hidden;}
+
+        .info-top{padding:10px 15px;position:relative;background:#fff;border-bottom:1px solid #ebebeb;}
+
+        .closeX{position:absolute;right:10px;top:2px;font-size:22px;cursor:pointer}
+
+        .info-middle{padding:15px 15px;border-radius:0 0 5px 5px;}
+
+        .info-bottom{height:12px;position:relative}
+
+        .sharp{width:0;height:0;border-left:7px solid transparent;border-right:7px solid transparent;border-top:12px solid #fff;position:absolute;left:50%;top:0;transform:translate(-50%,0)}
+
+    </style>
+
+</head>
+
+ 
+
+<body>
+
+    <div id="container"></div>
+
+    <script>
+
+    var map = new AMap.Map('container', {
+
+        resizeEnable: true,
+
+        zoom: 5,
+
+        center: [114.047614, 22.600735],
+
+        mapStyle: 'amap://styles/ac617ee5ac942dc438bc8ae1b99b7939',
+
+        viewMode: '3D', //开启3D视图,默认为关闭
+
+        buildingAnimation: true, //楼块出现是否带动画
+
+        //前往创建自定义地图样式：https://lbs.amap.com/dev/mapstyle/index
+
+    });
+//自定义的坐标列表
+    var capitals = [
+		
+		{
+
+        adcode: "",
+
+        center: [119.336792, 26.090106],
+
+        name: "东二环泰禾广场",
+
+        content: "<div><text >东二环泰禾广场:人气最高的商圈;<br/></text><text>大众点评链接：http://www.dianping.com/shop/57305064<br/></text></div>"
+
+    },{
+
+        adcode: "",
+
+        center: [119.29141, 26.061695],
+
+
+        name: "宝龙城市广场",
+
+        content: "<div><text >宝龙城市广场:人气商圈;<br/></text><text>大众点评链接：http://www.dianping.com/shop/2236300<br/></text></div>"
+
+    },
+		{
+
+        adcode: "",
+
+        center: [119.273922, 26.035605],
+
+
+        name: "仓山万达广场",
+
+        content: "<div><text >仓山万达广场:人气商圈;<br/></text><text>大众点评链接：http://www.dianping.com/shop/69914680<br/></text></div>"
+
+    },{
+        adcode: "",
+
+        center: [119.30139, 26.086644],
+
+        name: "东街口",
+
+        content: "<div><text >东街口:人气商圈;<br/></text><text>大众点评链接https://fz.meituan.com/s/东街口美食/</text></div>"
+
+    },{
+
+        adcode: "",
+
+        center: [119.34263, 26.053099],
+		
+
+        name: "金融街万达广场",
+
+        content: "<div><text >金融街万达广场:人气商圈;<br/></text><text>大众点评链接：http://www.dianping.com/shop/4559931<br/></text></div>"
+
+    }
+	
+	]
+
+    //实例化信息窗体
+
+    var title = '商圈信息';
+
+ 
+
+    var infoWindowArr = [],
+
+        facilities = [];
+
+    for (var i = 0; i < capitals.length; i++) {
+
+        var marker = new AMap.Marker({
+
+            position: new AMap.LngLat(capitals[i].center[0], capitals[i].center[1]),
+
+            offset: new AMap.Pixel(-10, -10),
+
+            icon: 'https://img2018.cnblogs.com/blog/1799539/201911/1799539-20191102105830026-548958640.png', // 添加 Icon 图标 URL
+
+            title: capitals[i].name,
+
+        });
+
+        facilities.push(marker);
+
+        var infoWindow = new AMap.InfoWindow({
+
+            isCustom: true, //使用自定义窗体
+
+            content: createInfoWindow(title, capitals[i].content),
+
+            offset: new AMap.Pixel(0, -20)
+
+        });
+
+        infoWindowArr.push(infoWindow);
+
+    }
+
+    map.add(facilities);
+
+ 
+
+    for (var i = 0; i < facilities.length; i++) {
+
+        (function(i) {
+
+            facilities[i].on('click', function(event) {
+
+                infoWindowArr[i].open(map, event.target.getPosition());
+
+            });
+
+        })(i)
+
+    }
+
+ 
+
+ 
+
+    //构建自定义信息窗体
+
+    function createInfoWindow(title, content) {
+
+        var info = document.createElement("div");
+
+        info.className = "custom-info input-card content-window-card";
+
+ 
+
+        //可以通过下面的方式修改自定义窗体的宽高
+
+        info.style.width = "300px";
+
+        // 定义顶部标题
+
+        var top = document.createElement("div");
+
+        var titleD = document.createElement("div");
+
+        var closeX = document.createElement("span");
+
+        top.className = "info-top";
+
+        titleD.innerHTML = title;
+
+        closeX.innerHTML = "&times;";
+
+        closeX.className = "closeX";
+
+        closeX.onclick = closeInfoWindow;
+
+ 
+
+        top.appendChild(titleD);
+
+        top.appendChild(closeX);
+
+        info.appendChild(top);
+
+ 
+
+        // 定义中部内容
+
+        var middle = document.createElement("div");
+
+        middle.className = "info-middle";
+
+        middle.style.backgroundColor = 'white';
+
+        middle.innerHTML = content;
+
+        info.appendChild(middle);
+
+ 
+
+        // 定义底部内容
+
+        var bottom = document.createElement("div");
+
+        bottom.className = "info-bottom";
+
+        var sharp = document.createElement("span");
+
+        sharp.className = "sharp";
+
+        bottom.appendChild(sharp);
+
+        info.appendChild(bottom);
+
+        return info;
+
+    }
+
+    //关闭信息窗体
+
+    function closeInfoWindow() {
+
+        map.clearInfoWindow();
+
+    }
+
+    </script>
+
+	
+</body>
+
+ 
+
+</html>
